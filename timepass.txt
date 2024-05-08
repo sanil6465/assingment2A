@@ -1,0 +1,3 @@
+name :sanil shinde 
+branch :information tecology
+subjet: wad assingment 2A
